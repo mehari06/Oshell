@@ -3,12 +3,14 @@
 **Group Number:** G-1
 
 ## Group Members
-Please fill in your details below:
-| Name | ID |
+| Name 
 |------|----|
-| [Member 1 Name] | [Member 1 ID] |
-| [Member 2 Name] | [Member 2 ID] |
-| [Member 3 Name] | [Member 3 ID] |
+| [Israel] |
+| [muse] ||
+| [leul] | |
+| [Robera] ||
+| [kaldidan] | |
+| [Barkot |  |
 
 ---
 
