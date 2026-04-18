@@ -1,18 +1,5 @@
 # OSHELL - Custom C Shell Project
 
-**Group Number:** G-1
-
-## Group Members
-| Name 
-|------|----|
-| [Israel] |
-| [muse] ||
-| [leul] | |
-| [Robera] ||
-| [kaldidan] | |
-| [Barkot |  |
-
----
 
 ## Project Description
 `oshell` is a feature-rich, custom shell implementation written in C. It mimics valid `bash` behavior for a subset of commands and features. It is designed to be a lightweight, robust command-line interpreter that supports both interactive user sessions and batch script processing. The project emphasizes modular design, error handling, and standard shell functionality.
